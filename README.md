@@ -1,6 +1,6 @@
 ## Práctica 1: Introducción a Haskell
 
-**Entrega: Jueves 16 de febrero de 2022**
+**Entrega: Lunes 27 de marzo de 2023**
 
 *La práctica podrá realizasrse en equipos de máximo 3 integrantes*
 
